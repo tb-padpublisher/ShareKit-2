@@ -1,0 +1,5 @@
+dependencies: \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSessionInsightsState.m \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSessionInsightsState.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBUtility.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBFetchedAppSettings.h

@@ -1,0 +1,27 @@
+dependencies: \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBPlacePickerViewController.m \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBError.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphObjectPagingLoader.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphObjectTableDataSource.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphObject.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphObjectTableSelection.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBInsights+Internal.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBInsights.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSession.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBLogger.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBPlacePickerViewController.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphPlace.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphLocation.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBCacheDescriptor.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBViewController.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBRequest.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBRequestConnection.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBOpenGraphObject.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBOpenGraphAction.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBUtility.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBFetchedAppSettings.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBPlacePickerCacheDescriptor.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSession+Internal.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSystemAccountStoreAdapter.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSessionInsightsState.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSettings.h

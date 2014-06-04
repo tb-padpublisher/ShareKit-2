@@ -1,0 +1,21 @@
+dependencies: \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBInsights.m \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBInsights.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSession.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBInsights+Internal.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBError.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBLogger.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBRequest.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBRequestConnection.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBGraphObject.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBOpenGraphObject.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBOpenGraphAction.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSession+Internal.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSystemAccountStoreAdapter.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSessionInsightsState.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSessionManualTokenCachingStrategy.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSessionTokenCachingStrategy.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBAccessTokenData.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBSettings.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBUtility.h \
+  /Volumes/Data2/KloonVN/KloonProject/PadPublisher/pp_client_ios/Submodules/ShareKit/Submodules/facebook-ios-sdk/src/FBFetchedAppSettings.h
