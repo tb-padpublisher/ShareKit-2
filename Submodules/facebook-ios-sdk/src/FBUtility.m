@@ -299,23 +299,25 @@ static NSError *g_fetchedAppSettingsError = nil;
 }
 
 + (NSString *)advertiserID {
-    NSString *advertiserID = nil;
-    if ([ASIdentifierManager class]) {
-        ASIdentifierManager *manager = [ASIdentifierManager sharedManager];
-        advertiserID = [[manager advertisingIdentifier] UUIDString];
-    }
-    return advertiserID;
+//     NSString *advertiserID = nil;
+//     if ([ASIdentifierManager class]) {
+//         ASIdentifierManager *manager = [ASIdentifierManager sharedManager];
+//         advertiserID = [[manager advertisingIdentifier] UUIDString];
+//     }
+//     return advertiserID;
+	return @"advertiserID";
 }
 
 + (FBAdvertisingTrackingStatus)advertisingTrackingStatus {
-   	FBAdvertisingTrackingStatus status = AdvertisingTrackingUnspecified;
-   	if ([ASIdentifierManager class]) {
-       	ASIdentifierManager *manager = [ASIdentifierManager sharedManager];
-       	if (manager) {
-           	status = [manager isAdvertisingTrackingEnabled] ? AdvertisingTrackingAllowed : AdvertisingTrackingDisallowed;
-       	}
-   	}
-   	return status;
+//    	FBAdvertisingTrackingStatus status = AdvertisingTrackingUnspecified;
+//    	if ([ASIdentifierManager class]) {
+//        	ASIdentifierManager *manager = [ASIdentifierManager sharedManager];
+//        	if (manager) {
+//            	status = [manager isAdvertisingTrackingEnabled] ? AdvertisingTrackingAllowed : AdvertisingTrackingDisallowed;
+//        	}
+//    	}
+//    	return status;
+	return NSClassFromString(@"FBAdvertisingTrackingStatus");
 }
 
 + (NSString *)simpleJSONEncode:(id)data {
